@@ -3,8 +3,7 @@
 M.S. student at [ISPL](https://dauispl.quv.kr/), Dong-A University (advisor: Prof. Dongsan Jun). I work on **multi-scale rendering** and **artifact reduction** for 3D Gaussian Splatting, and also study video coding (VVC, HEVC).<br>
 동아대학교 영상신호처리연구실 석사과정 · 3D Gaussian Splatting의 다중 스케일 렌더링과 아티팩트 저감을 연구합니다.
 
-<!-- [Homepage](https://hyeonbinpark1206.github.io) · 홈페이지 공개 후 다시 켜기 -->
-[Email](mailto:hbpark@donga-ispl.kr)
+[Homepage](https://hyeonbinpark1206.github.io) · [Email](mailto:hbpark@donga-ispl.kr)
 
 ### Publications
 
