@@ -22,7 +22,7 @@ M.S. student at [ISPL](https://dauispl.quv.kr/), Dong-A University (advisor: Pro
 
 <!-- PROJECTS:START -->
 <div>
-<a href="https://hyeonbinpark1206.github.io/YOMI/"><img src="assets/yomi-thumb.webp" width="166" align="left" alt="YOMI robot and its 8 facial expressions"></a>
+<a href="https://hyeonbinpark1206.github.io/YOMI/"><img src="assets/yomi-thumb.webp" width="120" align="left" alt="YOMI robot and its 8 facial expressions"></a>
 <b><a href="https://hyeonbinpark1206.github.io/YOMI/">YOMI — Humanoid Robot for Pre-service Kindergarten Teachers</a></b><br>
 <sub>Undergraduate capstone · 2025 · Team lead · <a href="https://hyeonbinpark1206.github.io/YOMI/">Project Page</a> · <a href="https://github.com/HyeonbinPark1206/4IU_RobotAI">Code</a></sub><br>
 <sub>STT · LLM · TTS · vision · touch · motors on one Jetson Orin NX. I built the real-time Korean STT and the ROS integration core.</sub>
